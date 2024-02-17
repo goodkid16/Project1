@@ -57,7 +57,7 @@ void analyzeExpression(int exp) {
         std::cout << "Expression " << exp << " is a contradiction." << std::endl;
     }
     else {
-        std::cout << "Expression " << exp << " is a contingency." << std::endl;
+        std::cout << "Expression " << exp << " is a contengency." << std::endl;
     }
 
     std::cout << std::endl; // Add a newline for better separation between expressions
